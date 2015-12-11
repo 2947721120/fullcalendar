@@ -1,4 +1,4 @@
-# FullCalendar
+#完整的日历
 
 A full-sized drag & drop event calendar (jQuery plugin).
 
