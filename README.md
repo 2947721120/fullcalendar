@@ -1,6 +1,6 @@
 #完整的日历
 
-A full-sized drag & drop event calendar (jQuery plugin).
+一个全尺寸的拖放事件日历（jQuery插件）。
 
 - [Project website and demos](http://fullcalendar.io/)
 - [Documentation](http://fullcalendar.io/docs/)
